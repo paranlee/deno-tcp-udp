@@ -47,8 +47,8 @@ or do nc.
 
 # Reference
 
-(Official deno install)[https://github.com/denoland/deno_install]
+[Official deno install](https://github.com/denoland/deno_install)
 
-(Official deno examples)[https://deno.land/std/examples]
+[Official deno examples](https://deno.land/std/examples)
 
-(Docs tcp-server)[https://deno.land/manual/getting_started/first_steps#tcp-server]
+[Docs tcp-server](https://deno.land/manual/getting_started/first_steps#tcp-server)
